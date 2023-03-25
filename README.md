@@ -9,7 +9,7 @@
 pip install -r requirements.txt
 ```
 
-2. Додайте до файлу ssh.txt сервери у форматі
+2. Додайте до файлу ssh.txt сервери MicroTik у форматі:
 ```sh
 ip:username:password
 ```
